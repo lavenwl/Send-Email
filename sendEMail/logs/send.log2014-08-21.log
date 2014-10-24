@@ -1,0 +1,39 @@
+[ INFO] [com.fieldschina.edm.MailMain.main(MailMain.java:24)] [2014-08-21 10:30:49.509] - ALL script start！
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.Timer(DMACSVFileHandler.java:61)] [2014-08-21 10:30:49.560] - Timer start！
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler$1.run(DMACSVFileHandler.java:74)] [2014-08-21 10:31:00.001] - DMACSVFileHandler createCSVFile Timer Task start！
+[ERROR] [com.fieldschina.edm.util.Util.getBegainTimeFromFolder(Util.java:694)] [2014-08-21 10:31:00.021] - path:E:\SVN\[2]设计开发\[2-4]源代码\SendEmail_java\sendEMail/EDMCSV 没有合法的CSV文件，无法获得ActionCSV文件增量上传的开始时间！返回昨天时间
+[DEBUG] [com.fieldschina.edm.dbconn.DBConnectionManager.loadDriver(DBConnectionManager.java:220)] [2014-08-21 10:31:02.278] - DBConnectionManager.loadDriver
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCNUserCSV(DMACSVFileHandler.java:128)] [2014-08-21 10:31:51.656] - 得到用户信息的数据CSV文件数量:57640
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCNUserCSV(DMACSVFileHandler.java:159)] [2014-08-21 10:31:52.255] - create CSV File：CNuserinfo_2014-08-21.csv finished.
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createENUserCSV(DMACSVFileHandler.java:171)] [2014-08-21 10:31:54.759] - 得到用户信息的数据CSV文件数量:15584
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createENUserCSV(DMACSVFileHandler.java:202)] [2014-08-21 10:31:54.838] - create CSV File：ENuserinfo_2014-08-21.csv finished.
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCNItemCSV(DMACSVFileHandler.java:214)] [2014-08-21 10:32:22.762] - 得到产品信息的数据CSV文件数量:2227
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCNItemCSV(DMACSVFileHandler.java:220)] [2014-08-21 10:32:22.764] - 得到的map的大小：2227
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCNItemCSV(DMACSVFileHandler.java:275)] [2014-08-21 10:32:22.815] - create CSV File：CNItemlist_source1_2014-08-21.csv finished.
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createENItemCSV(DMACSVFileHandler.java:287)] [2014-08-21 10:32:31.910] - 得到产品信息的数据CSV文件数量:2227
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createENItemCSV(DMACSVFileHandler.java:293)] [2014-08-21 10:32:31.912] - 得到的map的大小：2227
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createENItemCSV(DMACSVFileHandler.java:348)] [2014-08-21 10:32:31.950] - create CSV File：ENItemlist_source1_2014-08-21.csv finished.
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCSVFile(DMACSVFileHandler.java:102)] [2014-08-21 10:32:31.951] - full variable form to create Action CSV File
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllViewActionCSVs(ActionCSVDaoImpl.java:97)] [2014-08-21 10:33:09.154] - 读取ViewAction数据：开始时间：2014-07-21结束时间：2014-08-01当前list大小：13075
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllPurchasedActionCSVs(ActionCSVDaoImpl.java:163)] [2014-08-21 10:33:13.010] - 读取PurchasedAction数据：开始时间：2014-07-21结束时间：2014-08-01当前list大小：36617
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllCollectActionCSVs(ActionCSVDaoImpl.java:199)] [2014-08-21 10:33:13.817] - 读取CollectionAction数据：开始时间：2014-07-21结束时间：2014-08-01当前list大小：7560
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllShoppingCartActionCSVs(ActionCSVDaoImpl.java:234)] [2014-08-21 10:33:14.845] - 读取shoppingcartAction数据：开始时间：2014-07-21结束时间：2014-08-01当前list大小：106034
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:373)] [2014-08-21 10:33:14.846] - 得到行为信息的数据CSV文件数量:163286
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:393)] [2014-08-21 10:33:14.933] - ActionCSV.item有:3个非法数据。
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:445)] [2014-08-21 10:33:16.674] - ActionCSV.item有:3个非法数据。
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllViewActionCSVs(ActionCSVDaoImpl.java:97)] [2014-08-21 10:33:36.437] - 读取ViewAction数据：开始时间：2014-08-01结束时间：2014-08-21当前list大小：27615
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllPurchasedActionCSVs(ActionCSVDaoImpl.java:163)] [2014-08-21 10:33:42.975] - 读取PurchasedAction数据：开始时间：2014-08-01结束时间：2014-08-21当前list大小：84905
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllCollectActionCSVs(ActionCSVDaoImpl.java:199)] [2014-08-21 10:33:42.980] - 读取CollectionAction数据：开始时间：2014-08-01结束时间：2014-08-21当前list大小：195
+[DEBUG] [com.fieldschina.edm.dao.impl.ActionCSVDaoImpl.getAllShoppingCartActionCSVs(ActionCSVDaoImpl.java:234)] [2014-08-21 10:33:43.043] - 读取shoppingcartAction数据：开始时间：2014-08-01结束时间：2014-08-21当前list大小：8001
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:493)] [2014-08-21 10:33:43.044] - 得到行为信息的数据CSV文件数量:120716
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:513)] [2014-08-21 10:33:43.157] - ActionCSV.item有:10个非法数据。
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:564)] [2014-08-21 10:33:44.010] - ActionCSV.item有:10个非法数据。
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createActionCSV(DMACSVFileHandler.java:597)] [2014-08-21 10:33:44.790] - create CSV File：ENuserlog finished.
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.uploadCSVFiles(DMACSVFileHandler.java:767)] [2014-08-21 10:33:45.193] - 上传CNuserCSV表结果：true
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.uploadCSVFiles(DMACSVFileHandler.java:770)] [2014-08-21 10:33:45.451] - 上传ENuserCSV表结果：true
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.uploadCSVFiles(DMACSVFileHandler.java:773)] [2014-08-21 10:33:45.699] - 上传cnitemCSV表结果：true
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.uploadCSVFiles(DMACSVFileHandler.java:776)] [2014-08-21 10:33:45.943] - 上传enitemCSV表结果：true
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.uploadCSVFiles(DMACSVFileHandler.java:779)] [2014-08-21 10:33:47.715] - 上传CNactionCSV表结果：true
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler.uploadCSVFiles(DMACSVFileHandler.java:782)] [2014-08-21 10:33:48.894] - 上传ENactionCSV表结果：true
+[DEBUG] [com.fieldschina.edm.handler.DMACSVFileHandler.createCSVFile(DMACSVFileHandler.java:112)] [2014-08-21 10:33:48.894] - 已经释放连接！
+[ INFO] [com.fieldschina.edm.handler.DMACSVFileHandler$1.run(DMACSVFileHandler.java:76)] [2014-08-21 10:33:48.895] - Timer task end！

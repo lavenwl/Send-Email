@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/软件文件/颠倒西游1/颠倒西游/jar包/jar_file1/liib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="F:/软件文件/颠倒西游1/颠倒西游/jar包/jar_file1/liib/log4j-1.2.15.jar"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.xfire.MYECLIPSE_METRO_IMPL"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.xfire.MYECLIPSE_JAXWS_API"/>
+	<classpathentry kind="lib" path="F:/软件文件/classes12(1).jar"/>
+	<classpathentry kind="lib" path="F:/软件文件/颠倒西游1/颠倒西游/jar包/jar_file1/liib/activation.jar"/>
+	<classpathentry kind="lib" path="F:/软件文件/颠倒西游1/颠倒西游/jar包/jar_file1/liib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/软件文件/颠倒西游1/颠倒西游/jar包/jar_file1/liib/mail.jar"/>
+	<classpathentry kind="lib" path="F:/普通文件/jar/commons-net-ftp-2.0.jar/commons-net-ftp-2.0.jar"/>
+	<classpathentry kind="lib" path="F:/软件文件/颠倒西游1/颠倒西游/jar包/jar_file1/liib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SVN/[2]设计开发/[2-4]源代码/SendEmail_java/jar_file/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SVN/[2]设计开发/[2-4]源代码/SendEmail_java/jar_file/commons-lang-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

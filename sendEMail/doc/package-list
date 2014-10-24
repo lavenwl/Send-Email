@@ -1,0 +1,13 @@
+com.dmdelivery.webservice
+com.dmdelivery.webservice.type
+com.fieldschina.edm
+com.fieldschina.edm.config
+com.fieldschina.edm.dao
+com.fieldschina.edm.dao.impl
+com.fieldschina.edm.dbconn
+com.fieldschina.edm.email
+com.fieldschina.edm.entity
+com.fieldschina.edm.ftp
+com.fieldschina.edm.handler
+com.fieldschina.edm.service
+com.fieldschina.edm.util

@@ -1,0 +1,34 @@
+[ INFO] [com.fieldschina.edm.MailMain.main(MailMain.java:24)] [2014-09-24 09:29:33.597] - ALL script start！
+[ INFO] [com.fieldschina.edm.handler.IncrementRecipientHandler.Timer(IncrementRecipientHandler.java:41)] [2014-09-24 09:29:33.607] - Timer start！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler.Timer(CheckReportHandler.java:37)] [2014-09-24 09:29:33.617] - CheckReportHandler Timer start！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:50)] [2014-09-24 10:50:00.072] - CheckReportHandler Timer Task start！
+[DEBUG] [com.fieldschina.edm.service.CheckReportService.checkReport(CheckReportService.java:53)] [2014-09-24 10:50:04.745] - 检查今日日志文件。
+[DEBUG] [com.fieldschina.edm.dbconn.DBConnectionManager.loadDriver(DBConnectionManager.java:220)] [2014-09-24 10:50:04.745] - DBConnectionManager.loadDriver
+[DEBUG] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:77)] [2014-09-24 10:50:05.917] - 得到fields的IT员工数据数量:4
+[ INFO] [com.fieldschina.edm.email.SendMail.send(SendMail.java:74)] [2014-09-24 10:50:08.070] - 发送成功it.crm@sh.fieldschina.com
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:91)] [2014-09-24 10:50:08.080] - 邮件发送成功！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:52)] [2014-09-24 10:50:08.080] - CheckReportHandler Timer task end！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:50)] [2014-09-24 11:20:00.017] - CheckReportHandler Timer Task start！
+[DEBUG] [com.fieldschina.edm.service.CheckReportService.checkReport(CheckReportService.java:53)] [2014-09-24 11:20:00.017] - 检查今日日志文件。
+[DEBUG] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:77)] [2014-09-24 11:20:00.027] - 得到fields的IT员工数据数量:4
+[ INFO] [com.fieldschina.edm.email.SendMail.send(SendMail.java:74)] [2014-09-24 11:20:03.169] - 发送成功it.crm@sh.fieldschina.com
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:91)] [2014-09-24 11:20:03.169] - 邮件发送成功！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:52)] [2014-09-24 11:20:03.169] - CheckReportHandler Timer task end！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:50)] [2014-09-24 11:50:00.038] - CheckReportHandler Timer Task start！
+[DEBUG] [com.fieldschina.edm.service.CheckReportService.checkReport(CheckReportService.java:53)] [2014-09-24 11:50:00.038] - 检查今日日志文件。
+[DEBUG] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:77)] [2014-09-24 11:50:00.039] - 得到fields的IT员工数据数量:4
+[ INFO] [com.fieldschina.edm.email.SendMail.send(SendMail.java:74)] [2014-09-24 11:50:03.383] - 发送成功it.crm@sh.fieldschina.com
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:91)] [2014-09-24 11:50:03.383] - 邮件发送成功！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:52)] [2014-09-24 11:50:03.383] - CheckReportHandler Timer task end！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:50)] [2014-09-24 12:20:00.018] - CheckReportHandler Timer Task start！
+[DEBUG] [com.fieldschina.edm.service.CheckReportService.checkReport(CheckReportService.java:53)] [2014-09-24 12:20:00.018] - 检查今日日志文件。
+[DEBUG] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:77)] [2014-09-24 12:20:00.018] - 得到fields的IT员工数据数量:4
+[ INFO] [com.fieldschina.edm.email.SendMail.send(SendMail.java:74)] [2014-09-24 12:20:02.931] - 发送成功it.crm@sh.fieldschina.com
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:91)] [2014-09-24 12:20:02.931] - 邮件发送成功！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:52)] [2014-09-24 12:20:02.931] - CheckReportHandler Timer task end！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:50)] [2014-09-24 12:50:00.024] - CheckReportHandler Timer Task start！
+[DEBUG] [com.fieldschina.edm.service.CheckReportService.checkReport(CheckReportService.java:53)] [2014-09-24 12:50:00.024] - 检查今日日志文件。
+[DEBUG] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:77)] [2014-09-24 12:50:00.024] - 得到fields的IT员工数据数量:4
+[ INFO] [com.fieldschina.edm.email.SendMail.send(SendMail.java:74)] [2014-09-24 12:50:04.115] - 发送成功it.crm@sh.fieldschina.com
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler.sendReport(CheckReportHandler.java:91)] [2014-09-24 12:50:04.115] - 邮件发送成功！
+[ INFO] [com.fieldschina.edm.handler.CheckReportHandler$1.run(CheckReportHandler.java:52)] [2014-09-24 12:50:04.115] - CheckReportHandler Timer task end！
